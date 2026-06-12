@@ -27,12 +27,12 @@ An end-to-end EDA project exploring 239 online sales transactions across 6 produ
 | File | Description |
 |------|-------------|
 | `Online_Sales_EDA.ipynb` | Main analysis notebook |
-| `Online_Sales_Data.csv` | Dataset used |
+| `Online Sales Data.csv` | Dataset used |
 
 ## 🚀 How to Run
 1. Clone or download this repository
 2. Open `Online_Sales_EDA.ipynb` in Google Colab or Jupyter Notebook
-3. Upload `Online_Sales_Data.csv` to the same environment
+3. Upload `Online Sales Data.csv` to the same environment
 4. Run all cells from top to bottom
 
 ---
